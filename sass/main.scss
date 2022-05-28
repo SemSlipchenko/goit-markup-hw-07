@@ -1,1 +1,18 @@
-@import url(/sass/utils/_variables.scss);
+@import "./utils/basenormalize";
+@import "./utils/reset";
+@import "./utils/variables";
+@import "./utils/utils";
+
+@import "./components/logo";
+@import "./components/header";
+@import "./components/footer";
+@import "./components/hero";
+@import "./components/advantage";
+@import "./components/whatwedo";
+@import "./components/team";
+@import "./components/social";
+@import "./components/customers";
+@import "./components/portfolio";
+@import "./components/card";
+@import "./components/backdrop";
+@import "./components/modal";
